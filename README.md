@@ -1,1 +1,2 @@
 # Inventory_management_system
+The Inventory Management System is a secure, role-based application developed for DRDL (Defence Research and Development Laboratory) to manage equipment and inventory across multiple divisions. It features user authentication, CRUD operations, division-specific data access, and dynamic reporting, all backed by a robust MySQL database. The system enhances operational efficiency, ensures data accuracy, and supports confidential resource tracking.
